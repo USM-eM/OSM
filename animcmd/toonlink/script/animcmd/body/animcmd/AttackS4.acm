@@ -20,7 +20,7 @@ MoveDef AttackS4
 		Remove_All_Hitboxes()
 		Synchronous_Timer(Frames=2)
 		Bit_Variable_Set(Unknown=0x2100000D)
-		Asynchronous_Timer(Frames=49)
+		Asynchronous_Timer(Frames=43)
 		Bit_Variable_Clear(Unknown=0x2100000D)
 		Script_End()
 	}

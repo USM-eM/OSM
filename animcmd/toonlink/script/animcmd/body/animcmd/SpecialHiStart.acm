@@ -2,7 +2,7 @@ MoveDef SpecialHiStart
 {
 	Main()
 	{
-		Set_Frame_Duration(Speed=0.6)
+		Set_Frame_Duration(Speed=0.7)
 		Script_End()
 	}
 

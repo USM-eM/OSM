@@ -40,7 +40,7 @@ MoveDef Catch
 		Asynchronous_Timer(Frames=42)
 		unk_A30D3CA2(unknown=0x3, unknown=0x3)
 		Set_Article_Action(Unknown=0x4, Unknown=0x4)
-		Asynchronous_Timer(Frames=65)
+		Asynchronous_Timer(Frames=62)
 		Remove_Article(Unknown=0x3)
 		Remove_Article(Unknown=0x4)
 		}

@@ -2,6 +2,7 @@ MoveDef AttackDash
 {
 	Main()
 	{
+		Set_Frame_Duration(Speed=0.9)
 		Asynchronous_Timer(Frames=8)
 		Defensive_Hitbox(Unknown=0x3, Unknown=0x3E9, Unknown=6, Unknown=0, Unknown=0)
 		Defensive_Hitbox(Unknown=0x0, Unknown=0x3E9, Unknown=2, Unknown=0, Unknown=0)
