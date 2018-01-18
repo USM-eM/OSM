@@ -2,6 +2,8 @@ MoveDef AppealHiL
 {
 	Main()
 	{
+		Subroutine2(Hash=0x2C42123B)
+		Script_End()
 	}
 
 	Effect()
