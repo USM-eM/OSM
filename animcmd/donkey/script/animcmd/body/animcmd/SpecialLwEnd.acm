@@ -2,6 +2,8 @@ MoveDef SpecialLwEnd
 {
 	Main()
 	{
+		Set_Frame_Duration(Speed=0.5)
+		Script_End()
 	}
 
 	Effect()
