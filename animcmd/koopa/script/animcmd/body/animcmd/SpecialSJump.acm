@@ -2,6 +2,11 @@ MoveDef SpecialSJump
 {
 	Main()
 	{
+		Asynchronous_Timer(Frames=170)
+		Set_Frame_Duration(Frames=1.5)
+		Synchronous_Timer(Frames=10)
+		Set_Frame_Duration(Frames=1)
+		Script_End()
 	}
 
 	Effect()
