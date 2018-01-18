@@ -2,7 +2,7 @@ MoveDef SpecialLw
 {
 	Main()
 	{
-		Asynchronous_Timer(Frames=6)
+		Asynchronous_Timer(Frames=4)
 		Bit_Variable_Set(Unknown=0x2100000E)
 		Bit_Variable_Set(Unknown=0x21000011)
 		Asynchronous_Timer(Frames=28)

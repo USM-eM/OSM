@@ -4,8 +4,8 @@ MoveDef SpecialNEnd
 	{
 		Asynchronous_Timer(Frames=8)
 		unk_AC811479(Unknown=0x0, Unknown=0x2)
-		Extended_Hitbox(Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=8.5, Unknown=0x169, Unknown=0x5F, Unknown=0x0, Unknown=0x2D, Unknown=3, Unknown=0, Unknown=8.5, Unknown=8, Unknown=0x19, Unknown=0, Unknown=1, Unknown=1, Unknown=0x0, Unknown=0x0, Unknown=0x19, Unknown=0x2, Unknown=0x3, Unknown=0x3, Unknown=0x1, Unknown=0xA, Unknown=0, Unknown=8.5, Unknown=20)
-		Extended_Hitbox(Unknown=0x1, Unknown=0x0, Unknown=0x0, Unknown=8.5, Unknown=0x169, Unknown=0x5F, Unknown=0x0, Unknown=0x2D, Unknown=3, Unknown=0, Unknown=8.5, Unknown=27, Unknown=0x19, Unknown=0, Unknown=1, Unknown=1, Unknown=0x0, Unknown=0x0, Unknown=0x19, Unknown=0x2, Unknown=0x3, Unknown=0x3, Unknown=0x1, Unknown=0xA, Unknown=0, Unknown=8.5, Unknown=25)
+		Extended_Hitbox(Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=8.5, Unknown=0x169, Unknown=0x5F, Unknown=0x0, Unknown=0x32, Unknown=3, Unknown=0, Unknown=8.5, Unknown=8, Unknown=0x19, Unknown=0, Unknown=1, Unknown=1, Unknown=0x0, Unknown=0x0, Unknown=0x19, Unknown=0x2, Unknown=0x3, Unknown=0x3, Unknown=0x1, Unknown=0xA, Unknown=0, Unknown=8.5, Unknown=20)
+		Extended_Hitbox(Unknown=0x1, Unknown=0x0, Unknown=0x0, Unknown=8.5, Unknown=0x169, Unknown=0x5F, Unknown=0x0, Unknown=0x32, Unknown=3, Unknown=0, Unknown=8.5, Unknown=27, Unknown=0x19, Unknown=0, Unknown=1, Unknown=1, Unknown=0x0, Unknown=0x0, Unknown=0x19, Unknown=0x2, Unknown=0x3, Unknown=0x3, Unknown=0x1, Unknown=0xA, Unknown=0, Unknown=8.5, Unknown=25)
 		Asynchronous_Timer(Frames=10)
 		Remove_All_Hitboxes()
 		Script_End()
