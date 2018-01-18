@@ -2,6 +2,8 @@ MoveDef AppealLwL
 {
 	Main()
 	{
+		Set_Frame_Duration(Frames=1.2)
+		Script_End()
 	}
 
 	Effect()

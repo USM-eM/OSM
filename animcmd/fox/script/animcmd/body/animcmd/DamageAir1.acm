@@ -10,7 +10,7 @@ MoveDef DamageAir1
 
 	Sound()
 	{
-		Asynchronous_Timer(Frames=6)
+		Asynchronous_Timer(Frames=1)
 		Script_End()
 	}
 

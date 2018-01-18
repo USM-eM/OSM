@@ -10,7 +10,7 @@ MoveDef DamageLw2
 
 	Sound()
 	{
-		Asynchronous_Timer(Frames=6)
+		Asynchronous_Timer(Frames=1)
 		Script_End()
 	}
 

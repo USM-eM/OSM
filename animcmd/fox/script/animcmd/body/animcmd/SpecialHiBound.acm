@@ -3,6 +3,7 @@ MoveDef SpecialHiBound
 	Main()
 	{
 		Asynchronous_Timer(Frames=4)
+		Set_Frame_Duration(Speed=0.5)
 		unk_5BBFE217()
 		Script_End()
 	}
