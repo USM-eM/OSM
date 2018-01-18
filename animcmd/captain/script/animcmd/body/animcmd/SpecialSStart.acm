@@ -2,7 +2,9 @@ MoveDef SpecialSStart
 {
 	Main()
 	{
+		Set_Frame_Duration(Speed=0.8)
 		Asynchronous_Timer(Frames=16)
+		Set_Frame_Duration(Speed=1)
 		Extended_Special_Hitbox(Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0, Unknown=0x169, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=4.8, Unknown=0, Unknown=12, Unknown=10, Unknown=0x1, Unknown=0, Unknown=1, Unknown=1, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x3, Unknown=0x0, Unknown=0x4, Unknown=0x1F, Unknown=0x0, Unknown=0xF, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x3, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0x0, Unknown=0, Unknown=4, Unknown=10)
 		Bit_Variable_Set(Unknown=0x2100000E)
 		Asynchronous_Timer(Frames=36)

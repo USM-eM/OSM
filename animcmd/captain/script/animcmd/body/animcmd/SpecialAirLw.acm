@@ -11,6 +11,7 @@ MoveDef SpecialAirLw
 		Extended_Hitbox(Unknown=0x0, Unknown=0x0, Unknown=0x5, Unknown=11, Unknown=0x169, Unknown=0x41, Unknown=0x0, Unknown=0x28, Unknown=5, Unknown=4, Unknown=0, Unknown=0, Unknown=0x5, Unknown=0, Unknown=1, Unknown=1, Unknown=0x1, Unknown=0x1, Unknown=0x0, Unknown=0x2, Unknown=0x2, Unknown=0x3, Unknown=0x1, Unknown=0x6, Unknown=-2, Unknown=0, Unknown=0)
 		Synchronous_Timer(Frames=8)
 		Remove_All_Hitboxes()
+		Set_Frame_Duration(Speed=0.5)
 		Script_End()
 	}
 
