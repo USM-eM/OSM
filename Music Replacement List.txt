@@ -6,7 +6,7 @@ Code	ID	Name
 
 Menu
 S76	CRS01	Menu - Brawl Theme Remix
-S77	W33	Menu 2 Melee - Moon
+S77	W33	
 
 Battlefield
 S1	CRS02	Battlefield - Fighting of the Spirit
