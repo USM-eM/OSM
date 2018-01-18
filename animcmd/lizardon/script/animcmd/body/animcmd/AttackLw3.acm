@@ -2,6 +2,7 @@ MoveDef AttackLw3
 {
 	Main()
 	{
+		Set_Frame_Duration(Speed=0.8)
 		Asynchronous_Timer(Frames=1)
 		Set_Frame_Duration(Speed=0.8)
 		Asynchronous_Timer(Frames=6)

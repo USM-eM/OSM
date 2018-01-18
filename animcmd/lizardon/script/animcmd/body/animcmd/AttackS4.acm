@@ -2,6 +2,7 @@ MoveDef AttackS4
 {
 	Main()
 	{
+		Set_Frame_Duration(Speed=0.8)
 		Asynchronous_Timer(Frames=16)
 		Bit_Variable_Set(Unknown=0x2100001B)
 		Asynchronous_Timer(Frames=22)
