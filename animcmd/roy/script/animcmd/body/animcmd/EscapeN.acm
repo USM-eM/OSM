@@ -14,6 +14,7 @@ MoveDef EscapeN
 	{
 		Asynchronous_Timer(Frames=2)
 		Sound_Effect(SFX=0xC230023)
+		Sound_Effect(SFX=0xC260015)
 		Script_End()
 	}
 

@@ -6,7 +6,8 @@ MoveDef 0x293C68F7
 
 	Effect()
 	{
-		Subroutine2(Hash=0x126E356F)
+		Asynchronous_Timer(Frames=2)
+		Sound_Effect(SFX=0xC23001C)
 		Script_End()
 	}
 
@@ -14,6 +15,7 @@ MoveDef 0x293C68F7
 	{
 		Asynchronous_Timer(Frames=2)
 		Sound_Effect(SFX=0xC23001C)
+		Sound_Effect(SFX=0xC260013)
 		Script_End()
 	}
 
