@@ -4,10 +4,6 @@ MoveDef SpecialS_C2
 	{
 		Asynchronous_Timer(Frames=21)
 		Generate_Weapon(ID=0x1)
-		Asynchronous_Timer(Frames=40)
-		Set_Frame_Duration(Speed=2)
-		Asynchronous_Timer(Frames=58)
-		Set_Frame_Duration(Speed=1)
 		Script_End()
 	}
 
